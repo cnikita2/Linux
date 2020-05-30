@@ -1,0 +1,7 @@
+Add a new user
+  # useradd username
+  
+Delete a user account:
+  # userdel username
+  
+  
